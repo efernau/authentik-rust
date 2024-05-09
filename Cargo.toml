@@ -1,6 +1,6 @@
 [package]
 name = "authentik-rust"
-version = "2024.2.1"
+version = "0.0.1"
 authors = ["e.fernau@efero.de", "hello@goauthentik.io"]
 description = "Making authentication simple."
 homepage = "https://github.com/efernau/authentik-rust"
@@ -9,7 +9,6 @@ repository = "https://github.com/efernau/authentik-rust"
 readme = "README.md"
 keywords = ["authentik", "api"]
 categories = ["api-bindings", "authentication"]
-
 license = "MIT"
 edition = "2018"
 
